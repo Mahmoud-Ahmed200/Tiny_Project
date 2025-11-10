@@ -1,0 +1,64 @@
+# Visual Studio temporary files, build results, and VS settings
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]emp/
+[Tt]estResults/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# IDE caches
+*.db
+*.db-shm
+*.db-wal
+*.vsidx
+*.cache
+*.pdb
+*.exe
+*.dll
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+
+# Debugging
+*.tmp
+*.bak
+*.log
+*.dmp
+
+# Publish outputs
+*.publish.xml
+*.Publish.xml
+*.pubxml
+*.publishproj
+
+# Backup and autosave
+*.old
+*.orig
+
+# Windows-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Git itself
+.gitignore

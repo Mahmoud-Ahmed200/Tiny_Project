@@ -66,6 +66,11 @@ namespace Tiny_Compiler
         {
 
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
         /*  void PrintLexemes()
 {
 for (int i = 0; i < JASON_Compiler.Lexemes.Count; i++)
