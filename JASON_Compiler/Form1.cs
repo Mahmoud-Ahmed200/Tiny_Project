@@ -19,7 +19,7 @@ namespace Tiny_Compiler
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox2.Clear();
+            button2_Click(null, null);
             //string Code=textBox1.Text.ToLower();
             string Code = textBox1.Text;
             Tiny_Compiler.Start_Compiling(Code);
@@ -58,6 +58,8 @@ namespace Tiny_Compiler
         {
             dataGridView1.Rows.Clear();
             Tiny_Compiler.TokenStream.Clear();
+            Errors.Error_List.Clear();
+            textBox2.Text = "";
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)

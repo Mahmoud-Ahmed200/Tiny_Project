@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\New folder\\[2025-2026] JASON_Compiler_Template - For Students\\[2025-2026] JASON_Compiler_Template\\[2025-2026] JASON_Compiler_Template\\",
+  "WorkspaceRootPath": "D:\\Projects\\Vs\\CT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|c:\\users\\pc\\downloads\\new folder\\[2025-2026] jason_compiler_template - for students\\[2025-2026] jason_compiler_template\\[2025-2026] jason_compiler_template\\jason_compiler\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\TINY_COMPILER.csproj|d:\\projects\\vs\\ct\\jason_compiler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\TINY_COMPILER.csproj|solutionrelative:jason_compiler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\TINY_COMPILER.csproj|d:\\projects\\vs\\ct\\jason_compiler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\TINY_COMPILER.csproj|solutionrelative:jason_compiler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\TINY_COMPILER.csproj|d:\\projects\\vs\\ct\\jason_compiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\TINY_COMPILER.csproj|solutionrelative:jason_compiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|D:\\Projects\\Vs\\CT\\jason_compiler\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|solutionrelative:jason_compiler\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|c:\\users\\pc\\downloads\\new folder\\[2025-2026] jason_compiler_template - for students\\[2025-2026] jason_compiler_template\\[2025-2026] jason_compiler_template\\jason_compiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|solutionrelative:jason_compiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|C:\\Users\\PC\\Downloads\\New folder\\[2025-2026] JASON_Compiler_Template - For Students\\[2025-2026] JASON_Compiler_Template\\[2025-2026] JASON_Compiler_Template\\jason_compiler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|solutionrelative:jason_compiler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|C:\\Users\\PC\\Downloads\\New folder\\[2025-2026] JASON_Compiler_Template - For Students\\[2025-2026] JASON_Compiler_Template\\[2025-2026] JASON_Compiler_Template\\jason_compiler\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|solutionrelative:jason_compiler\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\TINY_COMPILER.csproj|c:\\users\\pc\\downloads\\new folder\\[2025-2026] jason_compiler_template - for students\\[2025-2026] jason_compiler_template\\[2025-2026] jason_compiler_template\\jason_compiler\\tiny_compiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\TINY_COMPILER.csproj|D:\\Projects\\Vs\\CT\\jason_compiler\\tiny_compiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\TINY_COMPILER.csproj|solutionrelative:jason_compiler\\tiny_compiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|c:\\users\\pc\\downloads\\new folder\\[2025-2026] jason_compiler_template - for students\\[2025-2026] jason_compiler_template\\[2025-2026] jason_compiler_template\\jason_compiler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|solutionrelative:jason_compiler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|D:\\Projects\\Vs\\CT\\jason_compiler\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317C883A-1AD2-4BF5-8033-D7C695787623}|JASON_Compiler\\JASON_Compiler.csproj|solutionrelative:jason_compiler\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,88 +34,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\Vs\\CT\\JASON_Compiler\\Form1.cs",
+              "RelativeDocumentMoniker": "JASON_Compiler\\Form1.cs",
+              "ToolTip": "D:\\Projects\\Vs\\CT\\JASON_Compiler\\Form1.cs [Design]*",
+              "RelativeToolTip": "JASON_Compiler\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:57:57.467Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Projects\\Vs\\CT\\JASON_Compiler\\Form1.cs",
+              "RelativeDocumentMoniker": "JASON_Compiler\\Form1.cs",
+              "ToolTip": "D:\\Projects\\Vs\\CT\\JASON_Compiler\\Form1.cs*",
+              "RelativeToolTip": "JASON_Compiler\\Form1.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwDwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:57:47.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\New folder\\[2025-2026] JASON_Compiler_Template - For Students\\[2025-2026] JASON_Compiler_Template\\[2025-2026] JASON_Compiler_Template\\JASON_Compiler\\Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Vs\\CT\\JASON_Compiler\\Program.cs",
               "RelativeDocumentMoniker": "JASON_Compiler\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\Downloads\\New folder\\[2025-2026] JASON_Compiler_Template - For Students\\[2025-2026] JASON_Compiler_Template\\[2025-2026] JASON_Compiler_Template\\JASON_Compiler\\Program.cs",
+              "ToolTip": "D:\\Projects\\Vs\\CT\\JASON_Compiler\\Program.cs",
               "RelativeToolTip": "JASON_Compiler\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T19:45:20.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\New folder\\[2025-2026] JASON_Compiler_Template - For Students\\[2025-2026] JASON_Compiler_Template\\[2025-2026] JASON_Compiler_Template\\JASON_Compiler\\Form1.cs",
-              "RelativeDocumentMoniker": "JASON_Compiler\\Form1.cs",
-              "ToolTip": "C:\\Users\\PC\\Downloads\\New folder\\[2025-2026] JASON_Compiler_Template - For Students\\[2025-2026] JASON_Compiler_Template\\[2025-2026] JASON_Compiler_Template\\JASON_Compiler\\Form1.cs",
-              "RelativeToolTip": "JASON_Compiler\\Form1.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAIwCIAAAB0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T19:42:55.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\New folder\\[2025-2026] JASON_Compiler_Template - For Students\\[2025-2026] JASON_Compiler_Template\\[2025-2026] JASON_Compiler_Template\\JASON_Compiler\\Form1.cs",
-              "RelativeDocumentMoniker": "JASON_Compiler\\Form1.cs",
-              "ToolTip": "C:\\Users\\PC\\Downloads\\New folder\\[2025-2026] JASON_Compiler_Template - For Students\\[2025-2026] JASON_Compiler_Template\\[2025-2026] JASON_Compiler_Template\\JASON_Compiler\\Form1.cs [Design]",
-              "RelativeToolTip": "JASON_Compiler\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T18:42:59.626Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "TINY_COMPILER.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\New folder\\[2025-2026] JASON_Compiler_Template - For Students\\[2025-2026] JASON_Compiler_Template\\[2025-2026] JASON_Compiler_Template\\JASON_Compiler\\TINY_COMPILER.cs",
+              "DocumentMoniker": "D:\\Projects\\Vs\\CT\\JASON_Compiler\\TINY_COMPILER.cs",
               "RelativeDocumentMoniker": "JASON_Compiler\\TINY_COMPILER.cs",
-              "ToolTip": "C:\\Users\\PC\\Downloads\\New folder\\[2025-2026] JASON_Compiler_Template - For Students\\[2025-2026] JASON_Compiler_Template\\[2025-2026] JASON_Compiler_Template\\JASON_Compiler\\TINY_COMPILER.cs",
+              "ToolTip": "D:\\Projects\\Vs\\CT\\JASON_Compiler\\TINY_COMPILER.cs",
               "RelativeToolTip": "JASON_Compiler\\TINY_COMPILER.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T18:28:52.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T18:28:52.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Errors.cs",
+              "DocumentMoniker": "D:\\Projects\\Vs\\CT\\JASON_Compiler\\Errors.cs",
+              "RelativeDocumentMoniker": "JASON_Compiler\\Errors.cs",
+              "ToolTip": "D:\\Projects\\Vs\\CT\\JASON_Compiler\\Errors.cs",
+              "RelativeToolTip": "JASON_Compiler\\Errors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:48:49.344Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Errors.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\New folder\\[2025-2026] JASON_Compiler_Template - For Students\\[2025-2026] JASON_Compiler_Template\\[2025-2026] JASON_Compiler_Template\\JASON_Compiler\\Errors.cs",
-              "RelativeDocumentMoniker": "JASON_Compiler\\Errors.cs",
-              "ToolTip": "C:\\Users\\PC\\Downloads\\New folder\\[2025-2026] JASON_Compiler_Template - For Students\\[2025-2026] JASON_Compiler_Template\\[2025-2026] JASON_Compiler_Template\\JASON_Compiler\\Errors.cs",
-              "RelativeToolTip": "JASON_Compiler\\Errors.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T17:48:49.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Scanner.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\New folder\\[2025-2026] JASON_Compiler_Template - For Students\\[2025-2026] JASON_Compiler_Template\\[2025-2026] JASON_Compiler_Template\\JASON_Compiler\\Scanner.cs",
+              "DocumentMoniker": "D:\\Projects\\Vs\\CT\\JASON_Compiler\\Scanner.cs",
               "RelativeDocumentMoniker": "JASON_Compiler\\Scanner.cs",
-              "ToolTip": "C:\\Users\\PC\\Downloads\\New folder\\[2025-2026] JASON_Compiler_Template - For Students\\[2025-2026] JASON_Compiler_Template\\[2025-2026] JASON_Compiler_Template\\JASON_Compiler\\Scanner.cs",
+              "ToolTip": "D:\\Projects\\Vs\\CT\\JASON_Compiler\\Scanner.cs",
               "RelativeToolTip": "JASON_Compiler\\Scanner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T17:47:46.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T17:47:46.187Z"
             }
           ]
         }
