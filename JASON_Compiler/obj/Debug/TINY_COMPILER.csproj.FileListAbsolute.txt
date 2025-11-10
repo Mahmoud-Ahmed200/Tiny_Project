@@ -22,3 +22,15 @@ D:\Projects\Vs\CT\JASON_Compiler\obj\Debug\TINY_COMPILER.csproj.GenerateResource
 D:\Projects\Vs\CT\JASON_Compiler\obj\Debug\TINY_COMPILER.csproj.CoreCompileInputs.cache
 D:\Projects\Vs\CT\JASON_Compiler\obj\Debug\JASON_Compiler.exe
 D:\Projects\Vs\CT\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
+C:\Users\PC\Downloads\Final Project\[2025-2026] JASON_Compiler_Template - For Students\[2025-2026] JASON_Compiler_Template\[2025-2026] JASON_Compiler_Template\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+C:\Users\PC\Downloads\Final Project\[2025-2026] JASON_Compiler_Template - For Students\[2025-2026] JASON_Compiler_Template\[2025-2026] JASON_Compiler_Template\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+C:\Users\PC\Downloads\Final Project\[2025-2026] JASON_Compiler_Template - For Students\[2025-2026] JASON_Compiler_Template\[2025-2026] JASON_Compiler_Template\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+C:\Users\PC\Downloads\Final Project\[2025-2026] JASON_Compiler_Template - For Students\[2025-2026] JASON_Compiler_Template\[2025-2026] JASON_Compiler_Template\JASON_Compiler\obj\Debug\TINY_COMPILER.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Final Project\[2025-2026] JASON_Compiler_Template - For Students\[2025-2026] JASON_Compiler_Template\[2025-2026] JASON_Compiler_Template\JASON_Compiler\obj\Debug\JASON_Compiler.exe.config
+C:\Users\PC\Downloads\Final Project\[2025-2026] JASON_Compiler_Template - For Students\[2025-2026] JASON_Compiler_Template\[2025-2026] JASON_Compiler_Template\JASON_Compiler\obj\Debug\Tiny_Compiler.Form1.resources
+C:\Users\PC\Downloads\Final Project\[2025-2026] JASON_Compiler_Template - For Students\[2025-2026] JASON_Compiler_Template\[2025-2026] JASON_Compiler_Template\JASON_Compiler\obj\Debug\JASON_Compiler.Form2.resources
+C:\Users\PC\Downloads\Final Project\[2025-2026] JASON_Compiler_Template - For Students\[2025-2026] JASON_Compiler_Template\[2025-2026] JASON_Compiler_Template\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+C:\Users\PC\Downloads\Final Project\[2025-2026] JASON_Compiler_Template - For Students\[2025-2026] JASON_Compiler_Template\[2025-2026] JASON_Compiler_Template\JASON_Compiler\obj\Debug\TINY_COMPILER.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Final Project\[2025-2026] JASON_Compiler_Template - For Students\[2025-2026] JASON_Compiler_Template\[2025-2026] JASON_Compiler_Template\JASON_Compiler\obj\Debug\TINY_COMPILER.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Final Project\[2025-2026] JASON_Compiler_Template - For Students\[2025-2026] JASON_Compiler_Template\[2025-2026] JASON_Compiler_Template\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+C:\Users\PC\Downloads\Final Project\[2025-2026] JASON_Compiler_Template - For Students\[2025-2026] JASON_Compiler_Template\[2025-2026] JASON_Compiler_Template\JASON_Compiler\obj\Debug\JASON_Compiler.pdb

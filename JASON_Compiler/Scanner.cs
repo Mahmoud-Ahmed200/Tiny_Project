@@ -5,7 +5,7 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Text.RegularExpressions;
 
 public enum Token_Class
 {
@@ -255,6 +255,7 @@ namespace Tiny_Compiler
                 Tok.token_type = TC;
                 Tokens.Add(Tok);    
             }
+            //Check if string
             else if (isString(Tok.lex))
             {
                 TC = Token_Class.tiny_String;
@@ -270,70 +271,39 @@ namespace Tiny_Compiler
 
 
 
-        public bool isLetter(char X)
-        {
-            return X >= 'a' && X <= 'z' || X >= 'A' && X <= 'Z';
-        }
-        public bool isDigit(char X)
-        {
-            return X >= '0' && X <= '9';
-        }
         public bool isIdentifier(string lex)
         {
-            bool isValid = true;
-            // Check if the lex is an identifier or not.
-            if (isLetter(lex[0]))
-            {
-                for (int i = 1; i < lex.Length; i++)
-                {
-                    if (!(isLetter(lex[i]) || isDigit(lex[i])))
-                    {
-                        isValid = false;
-                        break;
-                    }
-                }
-            }
-            else
-            {
-                return false;
-            }
-            return isValid;
+            return Regex.IsMatch(lex, @"^[A-Za-z][A-Za-z0-9]*$");
+        }
+
+        public bool IsNumber(string lex)
+        {
+            return Regex.IsMatch(lex, @"^[0-9]+(\.[0-9]+)?$");
         }
 
         public bool isString(string lex)
         {
-            bool isValid = true;
-            int len = lex.Length;
-            if (!(lex[0] == '"' && lex[len - 1] == '"'))
-                isValid = false;
-            return isValid;
+            return Regex.IsMatch(lex, "^\"[^\"]*\"$");
         }
+
         public bool IsComment(string lex)
         {
-            return (lex.Length >= 4 && lex.StartsWith("/*") && lex.EndsWith("*/"));
+            return Regex.IsMatch(lex, @"^/\*.*\*/$", RegexOptions.Singleline);
         }
-        public bool IsNumber(string lex)
-        {
-            bool isValid = true;
-            bool isFloat = false;
-            // Check if the lex is a constant (Number) or not.
-            for (int i = 0; i < lex.Length; i++)
-            {
-                if (!isDigit(lex[i]))
-                {
-                    if (lex[i] == '.' && !isFloat && i != 0)
-                    {
-                        isFloat = true;
-                    }
-                    else { return false; }
-                }
-            }
 
-            return isValid;
+        public bool isLetter(char c)
+        {
+            return Regex.IsMatch(c.ToString(), @"^[A-Za-z]$");
         }
+
+        public bool isDigit(char c)
+        {
+            return Regex.IsMatch(c.ToString(), @"^[0-9]$");
+        }
+
         static bool isWhiteSpace(char c)
         {
-            return c == ' ' || c == '\r' || c == '\n' || c == '\t' ;
+            return Regex.IsMatch(c.ToString(), @"[\s\r\n\t]");
         }
 
     }
