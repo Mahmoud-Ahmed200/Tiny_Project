@@ -10,3 +10,15 @@ C:\Users\PC\Downloads\New folder\[2025-2026] JASON_Compiler_Template - For Stude
 C:\Users\PC\Downloads\New folder\[2025-2026] JASON_Compiler_Template - For Students\[2025-2026] JASON_Compiler_Template\[2025-2026] JASON_Compiler_Template\JASON_Compiler\obj\Debug\TINY_COMPILER.csproj.CoreCompileInputs.cache
 C:\Users\PC\Downloads\New folder\[2025-2026] JASON_Compiler_Template - For Students\[2025-2026] JASON_Compiler_Template\[2025-2026] JASON_Compiler_Template\JASON_Compiler\obj\Debug\JASON_Compiler.exe
 C:\Users\PC\Downloads\New folder\[2025-2026] JASON_Compiler_Template - For Students\[2025-2026] JASON_Compiler_Template\[2025-2026] JASON_Compiler_Template\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
+D:\Projects\Vs\CT\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+D:\Projects\Vs\CT\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+D:\Projects\Vs\CT\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+D:\Projects\Vs\CT\JASON_Compiler\obj\Debug\TINY_COMPILER.csproj.AssemblyReference.cache
+D:\Projects\Vs\CT\JASON_Compiler\obj\Debug\JASON_Compiler.exe.config
+D:\Projects\Vs\CT\JASON_Compiler\obj\Debug\Tiny_Compiler.Form1.resources
+D:\Projects\Vs\CT\JASON_Compiler\obj\Debug\JASON_Compiler.Form2.resources
+D:\Projects\Vs\CT\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+D:\Projects\Vs\CT\JASON_Compiler\obj\Debug\TINY_COMPILER.csproj.GenerateResource.cache
+D:\Projects\Vs\CT\JASON_Compiler\obj\Debug\TINY_COMPILER.csproj.CoreCompileInputs.cache
+D:\Projects\Vs\CT\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+D:\Projects\Vs\CT\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
