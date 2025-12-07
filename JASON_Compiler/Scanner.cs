@@ -87,7 +87,7 @@ namespace Tiny_Compiler
                 if (isWhiteSpace(CurrentChar))
                     continue;
 
-                if (isLetter(CurrentChar))
+                if (isLetter(CurrentChar)) // check string
                 {
                     if (j < SourceCode.Length - 1)
                     {
@@ -126,7 +126,7 @@ namespace Tiny_Compiler
                     }
                     this.FindTokenClass(CurrentLexeme);
                 }
-                else if (CurrentChar == '/')
+                else if (CurrentChar == '/') // check comment
                 {
                     if (j < SourceCode.Length - 1)
                     {
