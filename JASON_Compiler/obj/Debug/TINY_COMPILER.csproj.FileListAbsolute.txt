@@ -46,3 +46,15 @@ D:\Projects\Vs\TINY_Compiler\JASON_Compiler\obj\Debug\TINY_COMPILER.csproj.Gener
 D:\Projects\Vs\TINY_Compiler\JASON_Compiler\obj\Debug\TINY_COMPILER.csproj.CoreCompileInputs.cache
 D:\Projects\Vs\TINY_Compiler\JASON_Compiler\obj\Debug\JASON_Compiler.exe
 D:\Projects\Vs\TINY_Compiler\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
+D:\Projects\Vs\Tiny_Project\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+D:\Projects\Vs\Tiny_Project\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+D:\Projects\Vs\Tiny_Project\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+D:\Projects\Vs\Tiny_Project\JASON_Compiler\obj\Debug\TINY_COMPILER.csproj.AssemblyReference.cache
+D:\Projects\Vs\Tiny_Project\JASON_Compiler\obj\Debug\Tiny_Compiler.Form1.resources
+D:\Projects\Vs\Tiny_Project\JASON_Compiler\obj\Debug\JASON_Compiler.Form2.resources
+D:\Projects\Vs\Tiny_Project\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+D:\Projects\Vs\Tiny_Project\JASON_Compiler\obj\Debug\TINY_COMPILER.csproj.GenerateResource.cache
+D:\Projects\Vs\Tiny_Project\JASON_Compiler\obj\Debug\TINY_COMPILER.csproj.CoreCompileInputs.cache
+D:\Projects\Vs\Tiny_Project\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+D:\Projects\Vs\Tiny_Project\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
+D:\Projects\Vs\Tiny_Project\JASON_Compiler\obj\Debug\JASON_Compiler.exe.config

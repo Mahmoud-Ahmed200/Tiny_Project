@@ -10,7 +10,7 @@ using System.Text.RegularExpressions;
 public enum Token_Class
 {
     //Reserved words
-    Int, Float, String, Read, Write, Repeat, Until, If, Elseif, Else, Then, Return, Endl, End,
+    Int, Float, String, Read, Write, Repeat, Until, If, Elseif, Else, Then, Return, Endl, End, Main,
 
     //Values
     Identifier, Number, Comment, tiny_String,
@@ -55,6 +55,7 @@ namespace Tiny_Compiler
             ReservedWords.Add("return", Token_Class.Return);
             ReservedWords.Add("end", Token_Class.End);
             ReservedWords.Add("endl", Token_Class.Endl);
+            ReservedWords.Add("main", Token_Class.Main);
 
             Operators.Add(";", Token_Class.Semicolon);
             Operators.Add(",", Token_Class.Comma);
