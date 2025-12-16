@@ -19,6 +19,12 @@ namespace Tiny_Compiler
 
         private void button1_Click(object sender, EventArgs e)
         {
+            textBox2.Text = "";
+            Tiny_Compiler.TokenStream.Clear();
+            dataGridView1.Rows.Clear();
+            treeView1.Nodes.Clear();
+            Errors.Error_List.Clear();
+            ///////////
             textBox2.Clear();
             string Code=textBox1.Text.ToLower();
             Tiny_Compiler.Start_Compiling(Code);
