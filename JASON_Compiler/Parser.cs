@@ -30,8 +30,8 @@ namespace Tiny_Compiler
         {
             this.InputPointer = 0;
             this.TokenStream = TokenStream;
-            root = new Node("Program");
-            root.Children.Add(Program());
+            root = Program();
+            //root.Children.Add(Program());
             return root;
         }
         Node Program()
@@ -179,101 +179,6 @@ namespace Tiny_Compiler
             return n;
         }
 
-        //Node Statements()
-        //{
-        //    Node n = new Node("Statements");
-        //    if (!Is_validInputPointer(InputPointer))
-        //        return n;
-        //    if (TokenStream[InputPointer].token_type == Token_Class.Write ||
-        //       TokenStream[InputPointer].token_type == Token_Class.Read ||
-        //       TokenStream[InputPointer].token_type == Token_Class.Identifier ||
-        //       TokenStream[InputPointer].token_type == Token_Class.Int ||
-        //       TokenStream[InputPointer].token_type == Token_Class.Float ||
-        //       TokenStream[InputPointer].token_type == Token_Class.String ||
-        //       TokenStream[InputPointer].token_type == Token_Class.If ||
-        //       TokenStream[InputPointer].token_type == Token_Class.Repeat ||
-        //       TokenStream[InputPointer].token_type == Token_Class.Comment)
-        //    {
-        //        n.Children.Add(Statement());
-        //        n.Children.Add(StatementsDash());
-        //    }
-        //    return n;
-        //}
-
-        //Node StatementsDash()
-        //{
-        //    Node n = new Node("StatementsDash");
-        //    if (!Is_validInputPointer(InputPointer))
-        //        return n;
-        //    if (TokenStream[InputPointer].token_type == Token_Class.Write ||
-        //        TokenStream[InputPointer].token_type == Token_Class.Read ||
-        //        TokenStream[InputPointer].token_type == Token_Class.Identifier ||
-        //        TokenStream[InputPointer].token_type == Token_Class.Int ||
-        //        TokenStream[InputPointer].token_type == Token_Class.Float ||
-        //        TokenStream[InputPointer].token_type == Token_Class.String ||
-        //        TokenStream[InputPointer].token_type == Token_Class.If ||
-        //        TokenStream[InputPointer].token_type == Token_Class.Repeat ||
-        //        TokenStream[InputPointer].token_type == Token_Class.Comment)
-        //    {
-        //        n.Children.Add(Statements());
-        //    }
-        //    return n;
-        //}
-
-        //Node Statement()
-        //{
-        //    Node n = new Node("Statement");
-        //    if (!Is_validInputPointer(InputPointer))
-        //        return n;
-        //    if (TokenStream[InputPointer].token_type == Token_Class.Write)
-        //    {
-        //        n.Children.Add(Write_Statement());
-        //    }
-        //    else if (TokenStream[InputPointer].token_type == Token_Class.Read)
-        //    {
-        //        n.Children.Add(Read_Statement());
-        //    }
-        //    else if (TokenStream[InputPointer].token_type == Token_Class.Identifier &&
-        //            Is_validInputPointer(InputPointer + 1) &&
-        //            TokenStream[InputPointer + 1].token_type == Token_Class.AssignmentOp)
-        //    {
-        //        n.Children.Add(Assignment_Statement());
-        //    }
-        //    else if (TokenStream[InputPointer].token_type == Token_Class.Int ||
-        //        TokenStream[InputPointer].token_type == Token_Class.Float ||
-        //        TokenStream[InputPointer].token_type == Token_Class.String)
-        //    {
-        //        n.Children.Add(Decleration_Statement());
-        //    }
-        //    else if (TokenStream[InputPointer].token_type == Token_Class.Identifier &&
-        //            Is_validInputPointer(InputPointer + 1) &&
-        //            (TokenStream[InputPointer + 1].token_type == Token_Class.GreaterThanOp ||
-        //            TokenStream[InputPointer + 1].token_type == Token_Class.LessThanOp ||
-        //            TokenStream[InputPointer + 1].token_type == Token_Class.EqualOp ||
-        //            TokenStream[InputPointer + 1].token_type == Token_Class.NotEqualOp))
-        //    {
-        //        n.Children.Add(Condition_Statement());
-        //    }
-        //    else if (TokenStream[InputPointer].token_type == Token_Class.If)
-        //    {
-        //        n.Children.Add(If_Statement());
-        //    }
-        //    else if (TokenStream[InputPointer].token_type == Token_Class.Repeat)
-        //    {
-        //        n.Children.Add(Repeat_Statement());
-        //    }
-        //    else if (TokenStream[InputPointer].token_type == Token_Class.Identifier &&
-        //            Is_validInputPointer(InputPointer + 1) &&
-        //             TokenStream[InputPointer + 1].token_type == Token_Class.LParanthesis)
-        //    {
-        //        n.Children.Add(Function_Call());
-        //    }
-        //    else if (TokenStream[InputPointer].token_type == Token_Class.Comment)
-        //    {
-        //        n.Children.Add(match(Token_Class.Comment));
-        //    }
-        //    return n;
-        //}
 
         Node Statements()
         {
